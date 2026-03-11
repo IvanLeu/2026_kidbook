@@ -52,4 +52,4 @@
 
 Авторы: @Ecodrin
 
-Ресурсы LLM - Gigachat
+Ресурсы LLM - 
